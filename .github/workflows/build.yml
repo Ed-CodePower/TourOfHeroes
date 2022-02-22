@@ -1,4 +1,4 @@
-#name: SonarCloud TourOfHeroes
+name: SonarCloud TourOfHeroes
 on:
   push:
     branches:
